@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='collective.sortedlisting',
-    version='1.0a4.post2',
+    version='1.0a4.post3.dev0',
     description="Sorted listings in Plone",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
