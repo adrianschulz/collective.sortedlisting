@@ -5,7 +5,7 @@ Changelog
 1.0a4.post2 (unreleased)
 ------------------------
 
-- Nothing changed yet.
+- Last release was conflicting
 
 
 1.0a4.post1 (2018-05-30)
