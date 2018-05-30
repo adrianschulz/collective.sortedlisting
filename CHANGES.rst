@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a4.post2 (unreleased)
+1.0a4.post2 (2018-05-30)
 ------------------------
 
 - Last release was conflicting
