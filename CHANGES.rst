@@ -2,6 +2,12 @@ Changelog
 =========
 
 
+1.0a4.post2 (unreleased)
+------------------------
+
+- Nothing changed yet.
+
+
 1.0a4.post1 (2018-05-30)
 ------------------------
 
